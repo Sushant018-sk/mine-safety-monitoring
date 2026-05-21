@@ -1,0 +1,21 @@
+# Dependencies — should be reinstalled with `npm install` on each machine
+node_modules/
+
+# Build output
+frontend/build/
+backend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local environment overrides (keep .env itself for the demo)
+.env.local
+.env.*.local
