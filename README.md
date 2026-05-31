@@ -1,9 +1,7 @@
-# CCL SafetyNet — Coal Mine Safety Monitoring Dashboard
+ — Coal Mine Safety Monitoring Dashboard
 
 A full-stack real-time web application for monitoring safety conditions at
-underground and opencast coal mines. Built as a student project / internship
-deliverable for CCL (Central Coalfields Limited), Ranchi.
-
+underground and opencast coal mines. 
 The system simulates a fleet of IoT sensors (methane, carbon monoxide,
 temperature, humidity, seismic activity, oxygen), streams their readings to a
 React dashboard over WebSockets, and raises alerts the moment a reading
